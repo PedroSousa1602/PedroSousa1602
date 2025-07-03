@@ -31,6 +31,6 @@ BEM VINO AO MEU PERFIL!!!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro.s.16/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrocgs2006@gmail.com)
 
-🧠 ATUALMENTE A APRENDER
+🧠 ATUALMENTE A APRENDER:
 
-⚙️ HTML, CSS
+- HTML, CSS
