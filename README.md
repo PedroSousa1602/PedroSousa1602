@@ -32,4 +32,5 @@ BEM VINO AO MEU PERFIL!!!
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrocgs2006@gmail.com)
 
 🧠 ATUALMENTE A APRENDER
+
 ⚙️ HTML, CSS
