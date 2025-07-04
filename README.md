@@ -13,11 +13,6 @@ BEM VINO AO MEU PERFIL!!!
   />
   <img src="https://github-readme-stats.vercel.app/api?username=PedroSousa1602&show_icons=true" />
 </picture>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-
-
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSousa1602&layout=compact&theme=dark"
@@ -29,6 +24,12 @@ BEM VINO AO MEU PERFIL!!!
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSousa1602&layout=compact" />
 </picture>
+
+💻 TECNOLOGIAS:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+
+🌐 REDES:
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroSousa1602)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-sousa-4a4a79269/)
