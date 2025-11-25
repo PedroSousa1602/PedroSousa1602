@@ -2,10 +2,10 @@ BEM VINO AO MEU PERFIL!!!
 
 🌟 PEDRO SOUSA
 
+![GitHub stats](https://github-readme-stats.zcy.dev/api?username=PedroSousa1602&show_icons=true&theme=dark)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroSousa1602&show_icons=true&theme=dark)
+![Top languages](https://github-readme-stats.zcy.dev/api/top-langs/?username=PedroSousa1602&layout=compact&theme=dark)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSousa1602&layout=compact&theme=dark)
 
 🌐 REDES:
 
