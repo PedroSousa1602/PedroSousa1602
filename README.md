@@ -1,6 +1,6 @@
 # Olá, eu sou Pedro 👋
 
-Sou estudante de **CTESP em Técnicas de Programação de Sistemas Informáticos**.  
+Sou estudante de **CTESP em Tecnologias e Programação de Sistemas de Informação**.  
 Estou a aprender e a explorar diferentes tecnologias de programação, desenvolvimento de software e boas práticas de codificação.  
 
 Gosto de criar projetos que me desafiem e me permitam aplicar os conhecimentos que vou adquirindo durante o curso.  
