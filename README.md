@@ -28,7 +28,6 @@ Focado em construir soluções eficientes, explorar novas tecnologias e aplicar 
 ### 📊 Estatísticas
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=PedroSousa1602&show_icons=true&theme=dark" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroSousa1602&theme=dark" />
 </p>
 
 <p align="center">
