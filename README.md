@@ -6,11 +6,16 @@
 </p>
 
 Sou estudante de **CTESP em Tecnologias e Programação de Sistemas de Informação**.  
-Focado em construir soluções eficientes, explorar novas tecnologias e aplicar as melhores práticas de Clean Code.
+Focado em construir soluções eficientes, explorar novas tecnologias e aplicar as melhores práticas de Clean Code e Programação Orientada a Objetos.
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
+
+**Backend & Lógica**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java" />
+</p>
 
 **Frontend**
 <p align="left">
@@ -22,6 +27,13 @@ Focado em construir soluções eficientes, explorar novas tecnologias e aplicar 
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
 </p>
+
+---
+
+### 🚀 Projetos em Destaque
+
+* **[Inventory Management System](https://github.com/PedroSousa1602/InventoryManagementSystem)**
+  Sistema de gestão de inventário desenvolvido em Java focado na validação rigorosa de inputs, controlo de buffers do Scanner e permissões dinâmicas por cargo (CLI).
 
 ---
 
