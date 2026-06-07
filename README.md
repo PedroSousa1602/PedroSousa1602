@@ -30,13 +30,6 @@ Focado em construir soluções eficientes, explorar novas tecnologias e aplicar 
 
 ---
 
-### 🚀 Projetos em Destaque
-
-* **[Inventory Management System](https://github.com/PedroSousa1602/InventoryManagementSystem)**
-  Sistema de gestão de inventário desenvolvido em Java focado na validação rigorosa de inputs, controlo de buffers do Scanner e permissões dinâmicas por cargo (CLI).
-
----
-
 ### 📊 Estatísticas
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=PedroSousa1602&show_icons=true&theme=dark" />
