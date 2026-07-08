@@ -6,7 +6,7 @@
 </p>
 
 Sou estudante de **CTESP em Tecnologias e Programação de Sistemas de Informação**.  
-Focado em construir soluções eficientes, explorar novas tecnologias e aplicar as melhores práticas de Clean Code e Programação Orientada a Objetos.
+Atualmente focado no desenvolvimento de soluções eficientes, explorando arquitetura de software, bases de dados e aplicando os conceitos de **Clean Code** e **Programação Orientada a Objetos (POO)**.
 
 ---
 
@@ -14,26 +14,34 @@ Focado em construir soluções eficientes, explorar novas tecnologias e aplicar 
 
 **Backend & Lógica**
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
 </p>
 
-**Frontend**
+**Bases de Dados**
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="45" alt="MySQL" />
+</p>
+
+**Frontend & Web**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="35" alt="JavaScript" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+</p>
+
+**Ferramentas & Ambiente**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="35" alt="IntelliJ IDEA" />
 </p>
 
 ---
 
 ### 📊 Estatísticas
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PedroSousa1602&show_icons=true&theme=dark" />
-</p>
 
 <p align="center">
   <picture>
