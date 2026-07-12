@@ -1,12 +1,19 @@
-# Olá, eu sou o Pedro Sousa 👋
+<h1 align="center">Olá, eu sou o Pedro Sousa 👋</h1>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/pedro-sousa-4a4a79269/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:pedrocgs2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedro-sousa-4a4a79269/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:pedrocgs2006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </p>
 
-Sou estudante de **CTESP em Tecnologias e Programação de Sistemas de Informação**.  
-Atualmente focado no desenvolvimento de soluções eficientes, explorando arquitetura de software, bases de dados e aplicando os conceitos de **Clean Code** e **Programação Orientada a Objetos (POO)**.
+<p align="center">
+  Estudante de <b>CTESP em Tecnologias e Programação de Sistemas de Informação</b>.<br>
+  Focado no desenvolvimento de soluções eficientes, explorando arquitetura de software, bases de dados
+  e aplicando os conceitos de <b>Clean Code</b> e <b>Programação Orientada a Objetos (POO)</b>.
+</p>
 
 ---
 
@@ -19,7 +26,7 @@ Atualmente focado no desenvolvimento de soluções eficientes, explorando arquit
 
 **Bases de Dados**
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="45" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" />
 </p>
 
 **Frontend & Web**
@@ -29,7 +36,6 @@ Atualmente focado no desenvolvimento de soluções eficientes, explorando arquit
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="35" alt="JavaScript" />
-  <img width="10" />
 </p>
 
 **Ferramentas & Ambiente**
@@ -44,8 +50,19 @@ Atualmente focado no desenvolvimento de soluções eficientes, explorando arquit
 ### 📊 Estatísticas
 
 <p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=PedroSousa1602&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroSousa1602&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroSousa1602/PedroSousa1602/output/github-contribution-grid-snake-dark.svg">
     <img alt="Snake Animation" src="https://raw.githubusercontent.com/PedroSousa1602/PedroSousa1602/output/github-contribution-grid-snake.svg">
   </picture>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PedroSousa1602&style=flat-square&color=blue" alt="Profile views" />
 </p>
