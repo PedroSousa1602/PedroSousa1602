@@ -11,8 +11,8 @@
 
 <p align="center">
   Estudante de <b>CTESP em Tecnologias e Programação de Sistemas de Informação</b>.<br>
-  Focado no desenvolvimento de soluções eficientes, explorando arquitetura de software, bases de dados
-  e aplicando os conceitos de <b>Clean Code</b> e <b>Programação Orientada a Objetos (POO)</b>.
+  Focado no desenvolvimento Backend com <b>Java & Spring Boot</b>, criação de <b>APIs REST</b>, bases de dados
+  e aplicando conceitos de <b>Clean Code</b> e <b>Programação Orientada a Objetos (POO)</b>.
 </p>
 
 ---
@@ -22,6 +22,8 @@
 **Backend & Lógica**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
 </p>
 
 **Bases de Dados**
@@ -43,6 +45,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="35" alt="IntelliJ IDEA" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="35" alt="Postman" />
 </p>
 
 ---
