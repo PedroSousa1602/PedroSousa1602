@@ -10,20 +10,35 @@
 </p>
 
 <p align="center">
-  Estudante de <b>CTESP em Tecnologias e Programação de Sistemas de Informação</b>.<br>
-  Focado no desenvolvimento Backend com <b>Java & Spring Boot</b>, criação de <b>APIs REST</b>, bases de dados
-  e aplicando conceitos de <b>Clean Code</b> e <b>Programação Orientada a Objetos (POO)</b>.
+  🎓 Estudante de <b>CTESP em Tecnologias e Programação de Sistemas de Informação</b> @ ISPGaya.<br>
+  💡 Desenvolvedor Backend focado em <b>Java 21 & Spring Boot 3</b>, integração de <b>Inteligência Artificial (Spring AI + Groq)</b>, criação de <b>APIs RESTful</b> e princípios de <b>Clean Code</b>.
 </p>
+
+---
+
+### 🚀 Projetos em Destaque
+
+* 📄 **[AtsCheck-API](https://github.com/PedroSousa1602/AtsCheck-API):** API REST inteligente desenvolvida para analisar e avaliar a compatibilidade de currículos em PDF com descrições de vagas usando Spring AI, Groq e Apache PDFBox.
+* 🤖 **[java-prompt-generator](https://github.com/PedroSousa1602/java-prompt-generator):** Aplicação em Java orientada à automação e refinamento de engenharia de prompts para LLMs.
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
-**Backend & Lógica**
+**Backend**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
+</p>
+
+**Inteligência Artificial & OpenAPI**
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white" height="32" alt="Spring AI" />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Groq_API-f55036?style=flat-square&logo=openai&logoColor=white" height="32" alt="Groq API" />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" height="32" alt="Swagger" />
 </p>
 
 **Bases de Dados**
@@ -31,7 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" />
 </p>
 
-**Frontend & Web**
+**Frontend & Suporte Web**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5" />
   <img width="10" />
