@@ -19,7 +19,7 @@
 ### 🚀 Projetos em Destaque
 
 * 📄 **[AtsCheck-API](https://github.com/PedroSousa1602/AtsCheck-API):** Aplicação de análise inteligente de currículos em PDF. Avalia a compatibilidade de CVs com vagas utilizando **Spring Boot 3**, **Spring AI**, **Groq API** e **Apache PDFBox**, integrada com um front-end dinâmico em **React.js**.
-* 🤖 **[java-prompt-generator](https://github.com/PedroSousa1602/java-prompt-generator):** Ferramenta Java focada na automação, estruturação e otimização de engenharia de prompts para Grandes Modelos de Linguagem (LLMs).
+* 💻 **[AtsCheck-Web](https://github.com/PedroSousa1602/AtsCheck-Web):** Frontend da plataforma AtsCheck construído com **React.js (Vite)** e **Axios**. Apresenta uma interface moderna estilo SaaS, com *CSS Modules* para evitar conflitos de estilos, upload intuitivo de ficheiros PDF e renderização dinâmica dos relatórios gerados pela IA.
 
 ---
 
@@ -38,7 +38,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" />
 </p>
    
-**Frontend & Bases de Dados**
+**Frontend**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img width="12" />
@@ -61,7 +61,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="Git" />
 </p>
-
 
 ---
 
