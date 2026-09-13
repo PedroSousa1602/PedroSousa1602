@@ -1,74 +1,105 @@
-<h1 align="center">Olá, eu sou o Pedro Sousa 👋</h1>
+# 💻 Pedro Sousa
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pedro-sousa-4a4a79269/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:pedrocgs2006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
+Estudante de **CTeSP em Tecnologias e Programação de Sistemas de Informação** no **ISPGaya**.  
+Focado em Desenvolvimento Backend com **Java 21**, **Spring Boot 3** e arquitetura de **APIs RESTful**.
 
-<p align="center">
-  🎓 Estudante de <b>CTESP em Tecnologias e Programação de Sistemas de Informação</b> @ <b>ISPGaya</b><br>
-  💡 Desenvolvedor focado em <b>Java 21 & Spring Boot 3</b>, construção de <b>APIs RESTful</b> e integração de <b>IA (Spring AI + Groq)</b>.
-</p>
+---
+
+### 📬 Contacto & Redes
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-sousa-4a4a79269/)
+[![Email](https://img.shields.io/badge/Email-pedrocgs2006%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pedrocgs2006@gmail.com)
 
 ---
 
 ### 🚀 Projetos em Destaque
 
-* 📄 **[AtsCheck-API](https://github.com/PedroSousa1602/AtsCheck-API):** Aplicação de análise inteligente de currículos em PDF. Avalia a compatibilidade de CVs com vagas utilizando **Spring Boot 3**, **Spring AI**, **Groq API** e **Apache PDFBox**, integrada com um front-end dinâmico em **React.js**.
-* 💻 **[AtsCheck-Web](https://github.com/PedroSousa1602/AtsCheck-Web):** Frontend da plataforma AtsCheck construído com **React.js (Vite)** e **Axios**. Apresenta uma interface moderna estilo SaaS, com *CSS Modules* para evitar conflitos de estilos, upload intuitivo de ficheiros PDF e renderização dinâmica dos relatórios gerados pela IA.
+* 📄 **[AtsCheck-API](https://github.com/PedroSousa1602/AtsCheck-API)** — API RESTful desenvolvida em **Java 21** e **Spring Boot 3** integrada com **Spring AI + Groq** para análise inteligente de currículos em PDF contra descrições de vagas.
+* 💻 **[AtsCheck-Web](https://github.com/PedroSousa1602/AtsCheck-Web)** — Frontend estilo SaaS construído em **React.js (Vite)** com **Axios** para consumo e renderização em tempo real dos relatórios analíticos do AtsCheck.
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
 **Backend**
+
 <p align="left">
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+
   <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
+
   <img width="12" />
+
 </p>
+
+
 
 **Bases de Dados**
+
 <p align="left">
+
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" />
-</p>
-   
-**Frontend**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="38" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="CSS3" />
-  <img width="12" />
- 
+
 </p>
 
-**Ferramentas & Ambiente**
+   
+
+**Frontend**
+
 <p align="left">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="38" alt="JavaScript" />
+
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" alt="HTML5" />
+
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="CSS3" />
+
+  <img width="12" />
+
+ 
+
+</p>
+
+
+
+**Ferramentas & Ambiente**
+
+<p align="left">
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="38" alt="VS Code" />
+
   <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="38" alt="IntelliJ IDEA" />
+
   <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="38" alt="Postman" />
+
   <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="Git" />
+
 </p>
 
 ---
 
-### 📊 Estatísticas
+### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=PedroSousa1602&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroSousa1602&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroSousa1602&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Pedro's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSousa1602&layout=compact&theme=dark&hide_border=true" alt="Top Langs" height="150" />
 </p>
 
 <p align="center">
